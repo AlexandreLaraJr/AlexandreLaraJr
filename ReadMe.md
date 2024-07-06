@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Me chamo Alexandre Lara 👋<br><br>💻Desenvolvedor Web e 🎲📊Cientista de dados.<br>🎓Formado em Analise e Desenvolvimento de Sistemas na FATEC Santos.<br>🎓Cursando Ciência de Dados na Univeridade Santa Cecília<br><br>
+Olá! Me chamo Alexandre Lara 👋<br><br>💻Desenvolvedor Web e 🎲📊Cientista de dados.<br>🎓Formado em Analise e Desenvolvimento de Sistemas na FATEC Santos.<br>🎓Cursando Ciência de Dados na Univeridade Santa Cecília.<br><br>
 
 
 ## 🌐 Redes sociais:
